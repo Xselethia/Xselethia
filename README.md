@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Xselethia
 - 👀 I am a teacher and I’m interested in learning new things 
-- 🌱 I’m currently learning Javascript thanks to my pucca @Valermus
+- 🌱 I’m currently learning Javascript thanks to my garu @gterdem
 - 💞️ I’m looking to collaborate on projects that I find interesting
 - 📫 How to reach me ...
           basakavdanerdem@gmail.com
